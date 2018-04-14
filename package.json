@@ -1,7 +1,7 @@
 {
   "main": "index.js",
   "version": "1.0.0",
-  "name": "@zyrolasting/minitest",
+  "name": "@sage.gerard/minitest",
   "author": "Sage Gerard <sage@sagegerard.com>",
   "license": "MIT",
   "description": "A minimal (< 25 SLOC, ~630 byte) annotated test runner with an ospec aesthetic and serializable, streamable results. Meant as a building block for your custom JS test toolchain.",
